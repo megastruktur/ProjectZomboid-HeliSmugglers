@@ -1,0 +1,16 @@
+module HSMUG
+{
+    imports
+    {
+        Base
+    }
+    item HeliSmugglersCrate
+	{
+	    DisplayCategory = Furniture,
+		Type			= Container,
+		Weight          = 10,
+		DisplayName		= Smuggler's Crate,
+		Icon            = HeliSmugglersCrate,
+		Capacity	    = 8,
+	}
+}
